@@ -1,4 +1,4 @@
-# AlgorithmsAndDataStructures
+# Algorithms and Data Structures
 
 This repo contains all I learned in [Data Structures and Algorithms in Swift](https://www.udemy.com/course/data-structures-and-algorithms-in-swift/) by Mohammad Azam on Udemy
 
