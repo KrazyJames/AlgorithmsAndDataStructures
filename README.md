@@ -14,5 +14,3 @@ This repo contains all I learned in [Data Structures and Algorithms in Swift](ht
  - Recursion
  - Search
  - Sorting
-
-*NOTE: This Repo is a WIP*
